@@ -8,6 +8,8 @@
   </head>
   <body>
     <div>
+      /* first project in php course 
+      this is my first step to be a backend developer*/   
       <?php echo " We Love ";?>
     </div>
     <div>
