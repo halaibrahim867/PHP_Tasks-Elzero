@@ -4,3 +4,20 @@ Week 1 assignment 4
       # // # Second Comment  correct 
       /* /* /* Third Comment */  correct 
       ////// Fourth Comment  incorrect comment
+
+
+Week 3
+      Assignment 5:
+      /*
+          1-echo 
+          2-clone 
+          3-empty 
+          4-do 
+          5-const
+          6-as
+          7-switch 
+          8-if 
+          9-eleif 
+          10-else
+      */
+      
