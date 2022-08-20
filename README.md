@@ -20,4 +20,9 @@ Week 3
           9-eleif 
           10-else
       */
-      
+    
+
+Week 6 
+      Keywords:
+            1-Closure =>https://www.php.net/manual/en/class.closure.php
+           
